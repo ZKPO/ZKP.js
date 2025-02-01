@@ -1,2 +1,2 @@
 # ZKP.js
-ZKP Implementation for nodes
+ZKP Implementation for NodeJs
